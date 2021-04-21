@@ -1,5 +1,7 @@
 # vue--app
 
+## This is my first app written on Vue.js framework
+
 ## Project setup
 ```
 npm install
